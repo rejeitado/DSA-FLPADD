@@ -1,3 +1,3 @@
-Repositorio do curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science da Data Science Academy.
+Repositório de estudos com base no curso "Fundamentos de Linguagem Python para Análise de Dados e Data Science" da Data Science Academy.
 
-Foi utilizado o Jupyter Notebook.
+O conteúdo foi desenvolvido como parte do processo de aprendizado, utilizando o Jupyter Notebook como ambiente interativo para execução de códigos e experimentação prática dos conceitos abordados no curso.
