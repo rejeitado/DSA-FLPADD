@@ -14,31 +14,26 @@
 
 | Seção | Módulo                                                              | Status       | Data de Conclusão |  
 |-------|---------------------------------------------------------------------|--------------|--------------------|  
-| 🧱1     | Introdução                                                          | ✅ Concluído | 06/01/2025        |  
-| 🧱2     | Conceitos de Programação                                            | ✅ Concluído | 06/01/2025        |  
-| 🧱3     | Introdução à Linguagem Java                                         | ✅ Concluído | 07/01/2025              |  
-| 🧱4     | Estrutura Sequencial                                                | ✅ Concluído   | 08/01/2025               
-| 🧱5     | Estrutura Condicional                                               | ✅ Concluído  | 10/01/2025               
-| 🧱6     | Estruturas Repetitivas                                              | ✅ Concluído   | 11/01/2025               
-| 💾7     | Outros Tópicos Básicos sobre Java                                   | ✅ Concluído  | 14/01/2025                
-| 💾8     | Introdução à Programação Orientada a Objetos                        | 🔄 Em Progresso   | 07/03/2025          |
-| 💾9     | Construtores, Sobrecarga, Encapsulamento                            | ⏳ Próximo   | -                |  
-| 💾10    | Comportamento de Memória, Arrays, Listas                            | ⏳ Próximo   | -                |  
-| 💾11    | Tópicos Especiais em Java: Date e Time                              | ⏳ Próximo   | -                |  
-| 💾12    | Enumerações, Composição                                             | ⏳ Próximo   | -                |  
-| 💾13    | Herança e Polimorfismo                                              | ⏳ Próximo   | -                |  
-| 💾14    | Tratamento de Exceções                                              | ⏳ Próximo   | -                |  
-| 💻15    | Trabalhando com Arquivos                                            | ⏳ Próximo   | -                |  
-| 💻16    | Interfaces                                                          | ⏳ Próximo   | -                |  
-| 💻17    | Generics, Set, Map                                                  | ⏳ Próximo   | -                |  
-| 💻18    | Programação Funcional e Expressões Lambda                           | ⏳ Próximo   | -                |  
-| 💻19    | Acesso a Banco de Dados com JDBC                                    | ⏳ Próximo   | -                |  
-| 💻20    | Bônus: Nivelamento sobre Threads                                    | ⏳ Próximo   | -                |  
-| 💻21    | Bônus: Java EE – Mapeamento Objeto-Relacional com JPA / Hibernate   | ⏳ Próximo   | -                |  
-<!-- | 22    | Bônus: Projeto Web com Spring Boot 🚨                                | 🔜 Em Breve  | -                |  
-| 23    | Bônus: Projeto Banco de Dados MongoDB com Spring Boot 🚨            | 🔜 Em Breve  | -                |  
-| 24    | Bônus: Interface Gráfica com JavaFX (Projeto Java FX)               | ⏳ Próximo   | -                |  
-| 25    | Seção Bônus                                                         | ⏳ Próximo   | -                |  -->
+| 🧱1     | Introdução                                                          | ✅ Concluído | 01/04/2025        |  
+| 🧱2     | Linguagem Python                                            | ✅ Concluído | 01/05/2025        |  
+| 🧱3     | Introdução à Lógica de Programação                                  | ✅ Concluído | 19/05/2025              |  
+| 🧱4     | Variáveis, Tipos e Estrutura de Dados                               | ✅ Concluído   | 25/06/2025               
+| 💾5     | Loops, Condicionais, Métodos e Funções                              | 🔄 Em Progresso | -          
+| 💾6     | Tratamentos de Arquivos, Módulos, Pacotes e Funções Built-in        | ⏳ Próximo   | -         
+| 💻7     | Projeto 1 e Avaliação 1                                             | ⏳ Próximo  | -            
+| 💾8     | Introdução à Programação Orientada a Objetos                        | ⏳ Próximo   | -          |
+| 💾9     | Matemática e Manipulaçãi de Matrizes com NumPY                      | ⏳ Próximo   | -                |  
+| 💾10    | Manipução de Dados com Pandas                                       | ⏳ Próximo   | -                |  
+| 💾11    | Visualização de Dados com Matplotlib e Seaborn                      | ⏳ Próximo   | -                |  
+| 💾12    | Análise de Dados com Python e Linguagem SQL                         | ⏳ Próximo   | -                |  
+| 💻13    | Projeto 2 e Avaliação 2                                             | ⏳ Próximo   | -                |  
+| 💾14    | Análise Estatística com Statsmodels                                 | ⏳ Próximo   | -                |  
+| 💾15    | Machine Learning com Scikit-Learn                                   | ⏳ Próximo   | -                |  
+| 💾16    | Análise de Séries Temporais em Python                               | ⏳ Próximo   | -                |  
+| 💾17    | Introdução a Deep Learning com TensorFlow                           | ⏳ Próximo   | -                |  
+| 💾18    | Aprendizado Por reforço (Reinforcement Learning)                    | ⏳ Próximo   | -                |  
+| 💻19    | Projeto 3                                                           | ⏳ Próximo   | -                |  
+| 💻20    | Avaliação                                                           | ⏳ Próximo   | -                |  
 
 ---
 
