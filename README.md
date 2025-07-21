@@ -21,7 +21,7 @@
 | 🧱5     | Estrutura Condicional                                               | ✅ Concluído  | 10/01/2025               
 | 🧱6     | Estruturas Repetitivas                                              | ✅ Concluído   | 11/01/2025               
 | 💾7     | Outros Tópicos Básicos sobre Java                                   | ✅ Concluído  | 14/01/2025                
-| 💾8     | Introdução à Programação Orientada a Objetos                        | 🔄 Em Progresso   | 07/03/2025          |  
+| 💾8     | Introdução à Programação Orientada a Objetos                        | 🔄 Em Progresso   | 07/03/2025          |
 | 💾9     | Construtores, Sobrecarga, Encapsulamento                            | ⏳ Próximo   | -                |  
 | 💾10    | Comportamento de Memória, Arrays, Listas                            | ⏳ Próximo   | -                |  
 | 💾11    | Tópicos Especiais em Java: Date e Time                              | ⏳ Próximo   | -                |  
@@ -50,13 +50,13 @@
 
 ## Recursos e Links Úteis 🔗  
 - [Documentação Oficial do Python](https://docs.python.org/3/)  
-- [The Python™ Tutorials](https://docs.python.org/pt-br/3.13/tutorial/)  
+- [Python™ Tutorials](https://docs.python.org/pt-br/3.13/tutorial/)  
 
 ---
 
 ## Contato  
 **Igor Figueiredo**  
-[GitHub](https://github.com/rejeitado) | [LinkedIn](www.linkedin.com/in/rejeitado/)  
+[GitHub](https://github.com/rejeitado) | [LinkedIn](https://www.linkedin.com/in/rejeitado/)  
 
 Repositório de estudos com base no curso "Fundamentos de Linguagem Python para Análise de Dados e Data Science" da Data Science Academy.
 
