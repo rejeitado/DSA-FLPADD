@@ -12,7 +12,7 @@
 
 ## Progresso 📊  
 
-| Seção | Módulo                                                              | Status       | Data de Conclusão |  
+| Cap | Módulo                                                              | Status       | Data de Conclusão |  
 |-------|---------------------------------------------------------------------|--------------|--------------------|  
 | 🧱1     | Introdução                                                          | ✅ Concluído | 01/04/2025        |  
 | 🧱2     | Linguagem Python                                            | ✅ Concluído | 01/05/2025        |  
