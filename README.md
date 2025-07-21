@@ -22,7 +22,7 @@
 | 💾6     | Tratamentos de Arquivos, Módulos, Pacotes e Funções Built-in        | ⏳ Próximo   | -         
 | 💻7     | Projeto 1 e Avaliação 1                                             | ⏳ Próximo  | -            
 | 💾8     | Introdução à Programação Orientada a Objetos                        | ⏳ Próximo   | -          |
-| 💾9     | Matemática e Manipulaçãi de Matrizes com NumPY                      | ⏳ Próximo   | -                |  
+| 💾9     | Matemática e Manipulação de Matrizes com NumPY                      | ⏳ Próximo   | -                |  
 | 💾10    | Manipução de Dados com Pandas                                       | ⏳ Próximo   | -                |  
 | 💾11    | Visualização de Dados com Matplotlib e Seaborn                      | ⏳ Próximo   | -                |  
 | 💾12    | Análise de Dados com Python e Linguagem SQL                         | ⏳ Próximo   | -                |  
