@@ -1,4 +1,4 @@
-<p align="center"> <strong style="font-size: 30px;">Fundamentos de Linguagem Python Para Análise De Dados e Data Science</strong> <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" alt="anaconda" width="60" height="60"> </a> </p>
+<p align="center"> <strong style="font-size: 30px;">Fundamentos de Linguagem Python Para Análise De Dados e Data Science</strong> <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="60" height="60"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="60" height="60"> </a>  </p>
 
 ## Objetivos  
 - **Assistir às aulas do curso de Python na Data Science Academy**  
@@ -50,7 +50,9 @@
 
 ## Recursos e Links Úteis 🔗  
 - [Documentação Oficial do Python](https://docs.python.org/3/)  
-- [Python™ Tutorials](https://docs.python.org/pt-br/3.13/tutorial/)  
+- [Python™ Tutorials](https://docs.python.org/pt-br/3.13/tutorial/)
+- [Documentação Oficial do Anaconda](https://www.anaconda.com/docs/main)
+- [Anaconda™ Tutorials](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/main)
 
 ---
 
