@@ -42,6 +42,22 @@
 
 ---
 
+## Organização do Repositório  
+
+- `Cap`: Contém os códigos-fonte dos programas desenvolvidos durante os estudos.  
+
+---
+
+## Recursos e Links Úteis 🔗  
+- [Documentação Oficial do Python](https://docs.python.org/3/)  
+- [The Java™ Tutorials](https://docs.python.org/pt-br/3.13/tutorial/)  
+
+---
+
+## Contato  
+**Igor Figueiredo**  
+[GitHub](https://github.com/rejeitado) | [LinkedIn](www.linkedin.com/in/rejeitado)  
+
 Repositório de estudos com base no curso "Fundamentos de Linguagem Python para Análise de Dados e Data Science" da Data Science Academy.
 
 O conteúdo foi desenvolvido como parte do processo de aprendizado, utilizando o Jupyter Notebook como ambiente interativo para execução de códigos e experimentação prática dos conceitos abordados no curso.
